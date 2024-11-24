@@ -1,1 +1,2 @@
 You should be careful with committing without git status.
+You should commit or stash changes before switching to another branch.
