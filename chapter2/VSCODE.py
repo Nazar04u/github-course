@@ -1,0 +1,1 @@
+print("Configure VsCode instead of VIM")
