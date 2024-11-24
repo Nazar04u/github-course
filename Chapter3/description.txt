@@ -1,0 +1,1 @@
+Chapter 3 of git course is about branching.
