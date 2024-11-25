@@ -1,0 +1,1 @@
+It is about merging branches and resolving conflict while merging.
