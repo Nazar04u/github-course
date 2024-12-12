@@ -1,1 +1,1 @@
-print("Add a task3 merging exercise.")
+print("Add a task3 merging final exercise.")
