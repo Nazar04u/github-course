@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 This chapter is about git stash.
+=======
+fvdsfdsfds
+>>>>>>> Stashed changes
