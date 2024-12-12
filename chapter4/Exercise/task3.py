@@ -1,0 +1,1 @@
+print("If files have merging problem you should resolve them before committing them")
