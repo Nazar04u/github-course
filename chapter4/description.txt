@@ -1,1 +1,2 @@
 It is about merging branches and resolving conflict while merging.
+It is very important and vital topic to know.
