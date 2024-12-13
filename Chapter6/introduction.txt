@@ -1,1 +1,1 @@
-This chapter is about git stash.
+This chapter is about git stash and what they are doing.
