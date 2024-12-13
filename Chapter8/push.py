@@ -1,1 +1,1 @@
-print("Git push .... =>")
+print("Git push .... => 40%.")
