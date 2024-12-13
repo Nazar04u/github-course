@@ -1,0 +1,2 @@
+Fetching is used when you need a new version of repo but without rewritten your unpushed work.
+Pulling is used when you want just get a new version to your workspace, but unpushed part will be gone.
