@@ -1,1 +1,2 @@
 This chapter is about git tags.
+Tags are used for easier release.
