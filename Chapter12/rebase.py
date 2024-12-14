@@ -1,1 +1,1 @@
-print('One way of using rebase command is instead of merging')
+print('One way of using rebase command is instead of merging.')
